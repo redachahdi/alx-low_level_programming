@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * add - get Adds two integers and returns to 
+ * add -get Adds two integers and returns to 
  * the result.
  *
  * @a: number one.
