@@ -2,7 +2,7 @@
 /**
  * main- entry point
  * let print _putchar to stdout
- * retun 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
