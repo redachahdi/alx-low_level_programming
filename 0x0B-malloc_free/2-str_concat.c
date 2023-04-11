@@ -40,7 +40,7 @@ char *str_concat(char *s1, char *s2)
 	for (c = 0; c < a; c++)
 		down[c] = s1[c];
 
-	finish = c;
+	finish = b;
 	for (b = 0; b <= finish; c++, b++)
 		down[c] = s2[b];
 
