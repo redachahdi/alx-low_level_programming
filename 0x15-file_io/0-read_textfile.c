@@ -5,7 +5,7 @@
 /**
  * read_textfile - function that  print text and read.
  *
- * @filename: is the name of char file 
+ * @filename: is the name of char file.
  * @letters: is the number of letters.
  *
  * Return: read the file .
